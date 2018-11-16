@@ -1,0 +1,16 @@
+{
+    "name": "xiaoming/customphpjson",
+    "description": "PHP library to encode and decode JSON",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "joy624",
+            "email": "990198829@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+    "psr-4": { "CustomPHPJson\\": "src/" }
+  }
+}
